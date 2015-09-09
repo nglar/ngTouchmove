@@ -73,13 +73,13 @@ This will trigger whenever a touch device is touched and moving.
 
 ## Links
 
-The following is a list of libraries that extend ngTouch:
+The following is a list of libraries that extend ngTouchmove:
 
  * None yet
 
 *Contact me at [mark@webman.io](mailto:mark@webman.io) to get yours added.*
 
-The following is a list of libraries that requires by SmartObject:
+The following is a list of libraries that requires by ngTouchmove:
 
  * [Angular](https://github.com/angular/angular.js):
 HTML enhanced for web apps
