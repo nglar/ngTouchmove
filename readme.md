@@ -85,7 +85,7 @@ The following is a list of libraries that requires by SmartObject:
 HTML enhanced for web apps
 
 The following is a list of alternatives for ngTouchmove:
-* [ngTouchmove](https://github.com/nglar/ngTouch):
+* [ngTouch](https://github.com/nglar/ngTouch):
 A angular module to add directives for touch devices.
 
 ## Tests
