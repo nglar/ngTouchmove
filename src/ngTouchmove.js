@@ -13,6 +13,7 @@ angular.module("ngTouchmove", []).directive("ngTouchmove", function () {
       
       function onTouchMove(event) {
           var method = $element.attr('ng-touchmove');
+          $scope.$event = event;
           $scope.$apply(method);
       };
       
