@@ -73,14 +73,15 @@ var app = angular.module("demoapp", ["ngTouchmove"]);
 Then in your controller:
 
 ```
-$scope.onTouchmove = function($event) {
+$scope.onTouchmove = function() {
    console.log('touchmove event called');
+   console.log('Event', $scope.event);
 }
 ```
 
 Then in your HTML:
 ```
-<div ng-touchmove="onTouchmove($event)"></div>
+<div ng-touchmove="onTouchmove()"></div>
 ```
 
 This will trigger whenever a touch device is touched and moving.
