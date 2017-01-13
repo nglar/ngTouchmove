@@ -1,6 +1,6 @@
 > __No longer maintained, would you be our new maintainer? Let us know at [mark@ulties.com](mailto:mark@ulties.com).__
 
-[![nglar - ngTouchmove](https://raw.githubusercontent.com/nglar/ngTouchmove/master/resources/logo.png)
+![nglar - ngTouchmove](https://raw.githubusercontent.com/nglar/ngTouchmove/master/resources/logo.png)
 
 A angular module to add directives for touch devices.
 
