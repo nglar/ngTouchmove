@@ -1,4 +1,6 @@
-[![nglar - ngTouchmove](http://static-content.webman.io/github.com/nglar/ngTouchmove.png)](https://www.webman.io/nglar/ngTouchmove)
+> __No longer maintained, would you be our new maintainer? Let us know at [mark@ulties.com](mailto:mark@ulties.com).__
+
+[![nglar - ngTouchmove](https://raw.githubusercontent.com/nglar/ngTouchmove/master/resources/logo.png)
 
 A angular module to add directives for touch devices.
 
@@ -26,7 +28,6 @@ A angular module to add directives for touch devices.
 * [Usage](#usage)
 * [Links](#links)
 * [Tests](#tests)
-* [Official Documentation](#official-documentation)
 * [Contributing](#contributing)
 * [Security Vulnerabilities](#security-vulnerabilities)
 * [License](#license)
@@ -35,8 +36,8 @@ A angular module to add directives for touch devices.
 
 Version: 1.0.1    
 Author: Mark Topper [[Facebook](https://facebook.com/marktopper)] [[Github](https://github.com/marktopper)] [[Twitter](https://twitter.com/webman.io)]    
-Website: [www.webman.io](https://www.webman.io)    
-Email: [mark@webman.io](mailto:mark@webman.io)
+Website: [ulties.com](https://ulties.com)    
+Email: [mark@ulties.com](mailto:mark@ulties.com)
 
 ## Installing/Loading
 
@@ -94,7 +95,7 @@ The following is a list of libraries that extend ngTouchmove:
 
  * None yet
 
-*Contact me at [mark@webman.io](mailto:mark@webman.io) to get yours added.*
+*Contact me at [mark@ulties.com](mailto:mark@ulties.com) to get yours added.*
 
 The following is a list of libraries that requires by ngTouchmove:
 
@@ -109,17 +110,13 @@ A angular module to add directives for touch devices.
 
 From the project directory, tests can be ran using `gulp test`
 
-## Official Documentation
-
-Documentation for this library can be found on the [website](https://www.webman.io/nglar/ngtouchmove).
-
 ## Contributing
 
 Thank you for considering contributing! The contribution guide can be found in the [contributions.md](https://github.com/nglar/ngTouchmove/blob/master/contributions.md).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within ngTouch, please send an e-mail to Mark Topper at [mark@webman.io](mailto:mark@webman.io). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within ngTouch, please send an e-mail to Mark Topper at [mark@ulties.com](mailto:mark@ulties.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
